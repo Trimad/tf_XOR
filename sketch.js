@@ -1,5 +1,5 @@
 let model;
-let resolution = 20;
+let resolution = 32;
 let cols, rows;
 let xs;
 const train_xs = tf.tensor2d([
